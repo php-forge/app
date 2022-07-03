@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Forge\App\Tests\Acceptance;
 
-use Forge\App\Tests\Support\AcceptanceTester;
+use Forge\App\Tests\AcceptanceTester;
 
 final class ErrorCest
 {

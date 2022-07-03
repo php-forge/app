@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Tests\Cli;
 
-use Forge\App\Tests\Support\CliTester;
+use Forge\App\Tests\CliTester;
 
 final class ConsoleCest
 {
