@@ -1,12 +1,8 @@
 <?php
-
-declare(strict_types=1);
-
-namespace Forge\App\Tests\Support;
+namespace Forge\App\Tests;
 
 /**
  * Inherited Methods
- *
  * @method void wantToTest($text)
  * @method void wantTo($text)
  * @method void execute($callable)
@@ -16,7 +12,7 @@ namespace Forge\App\Tests\Support;
  * @method void am($role)
  * @method void lookForwardTo($achieveValue)
  * @method void comment($description)
- * @method void pause($vars = [])
+ * @method void pause()
  *
  * @SuppressWarnings(PHPMD)
 */
