@@ -44,8 +44,8 @@ Las pruebas unitarias se comprueban con [PHPUnit](https://phpunit.de/). Para eje
 
 ## Calidad y estilo de código
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5265edb5b21e4b3eb04bf869f4f0ce9f)](https://www.codacy.com/gh/php-forge/app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=php-forge/app&amp;utm_campaign=Badge_Grade)
-[![StyleCI](https://github.styleci.io/repos/494495136/shield?branch=main)](https://github.styleci.io/repos/494495136?branch=main)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/664b96add8e447a4a29050d0cdfa797e)](https://www.codacy.com/gh/php-forge/app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=php-forge/app&amp;utm_campaign=Badge_Grade)
+[![StyleCI](https://github.styleci.io/repos/510109439/shield?branch=main)](https://github.styleci.io/repos/510109439?branch=main)
 
 ## Licencia
 
