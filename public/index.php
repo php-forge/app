@@ -10,11 +10,6 @@ use Yiisoft\Config\Modifier\RecursiveMerge;
 use Yiisoft\Config\Modifier\ReverseMerge;
 use Yiisoft\Yii\Runner\Http\HttpApplicationRunner;
 
-$c3 = dirname(__DIR__) . '/c3.php';
-if (file_exists($c3)) {
-    require_once $c3;
-}
-
 // PHP built-in server routing.
 if (PHP_SAPI === 'cli-server') {
     /** @var string */
