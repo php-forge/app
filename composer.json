@@ -22,7 +22,7 @@
         "yiisoft/error-handler": "^2.0",
         "yiisoft/event-dispatcher": "^1.0",
         "yiisoft/i18n": "^1.0",
-        "yiisoft/log-target-file": "^1.1",
+        "yiisoft/log-target-file": "^2.0",
         "yiisoft/log": "^2.0",
         "yiisoft/router-fastroute": "^1.0",
         "yiisoft/session": "^1.0",
